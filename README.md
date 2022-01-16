@@ -13,6 +13,6 @@ Site em React e Spring de avaliação de filmes e séries. Utiliza deploy na nuv
 - maven
 
 ### Rode localmente
-Na pasta frontend execute ```yarn build``` e na pasta backend ```mvn spring-boot:run```
+Na pasta frontend execute ```yarn start``` e na pasta backend ```mvn spring-boot:run```
 
 > Projeto realizado na Semana Spring React da [devsuperior](https://github.com/devsuperior/sds-dsmovie)
