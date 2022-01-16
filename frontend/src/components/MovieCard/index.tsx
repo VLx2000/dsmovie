@@ -9,7 +9,7 @@ type Props = {
 function MovieCard( { movie } : Props ) {
 
     return (
-        <div>
+        <div className="dsmovie-card">
             <img className="dsmovie-movie-card-image" src={movie.image} alt={movie.title} />
             <div className="dsmovie-card-bottom-container">
                 <h3>{movie.title}</h3>
