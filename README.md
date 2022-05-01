@@ -1,7 +1,7 @@
 # DSMovie :movie_camera: :popcorn:
 Site em React e Spring de avaliação de filmes e séries. Utiliza deploy na nuvem (Netlify - front e Heroku - back)
 
-### [Link para o site](https://victorl-dsmovie.netlify.app/)
+#### [Link para o site](https://victorl-dsmovie.netlify.app/) (após aberto aguarde um pouco pois o backend demora para iniciar)
 
 ### ![Tela inicial](./home.png)
 
